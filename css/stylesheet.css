@@ -76,10 +76,23 @@ position:absolute;
   border-width: thick;
 }
 
+.main {
+  font-family: 'Amatic SC', cursive; font-stretch: wider;
+
+}
+
+h1 {
+  font-size: 6em;
+}
+
 
  .carousel-item .img-fluid {
 width:100%;
 height:100%;
+}
+
+.bolderer {
+  font-weight: bolder;
 }
 
 tr td {
@@ -88,6 +101,8 @@ tr td {
 
 body {
   background-color: rgb(7, 6, 6);
+  
+
 }
 
 ul {
@@ -99,9 +114,7 @@ nav {
   background-color: black;
 }
 
-border {
-  width: 6px;
-}
+
 
 p {
   font-weight: bolder ;
