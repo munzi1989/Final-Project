@@ -1,0 +1,30 @@
+{
+  "name": "finalproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "bootstrap-social": "^5.1.1",
+    "font-awesome": "^4.7.0",
+    "gh-pages": "^2.2.0",
+    "jquery": "^1.9.1",
+    "json": "^9.0.6",
+    "popper": "^1.0.1",
+    "popper.js": "^1.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gh-pages -d "
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/munzi1989/CoffeeHouse"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/munzi1989/CoffeeHouse/issues"
+  },
+  "homepage": "https://github.com/munzi1989/CoffeeHouse/index.html"
+}
